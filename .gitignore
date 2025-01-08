@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio user files
+*.vcxproj.user
+
+# Visual Studio cache/options directory
+**/.vs/
+**/x64/
+**/obj/
+**/bin/
+
+# Folders and binary file extensions to keep out of version control
+**/build/
+**/out/
+**/*.sms
+**/*.sym
+**/*.sav
